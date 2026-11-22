@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "fetchtranscript": {
+      "command": "uvx",
+      "args": ["fetchtranscript-mcp"],
+      "env": {
+        "FETCHTRANSCRIPT_API_KEY": "${FETCHTRANSCRIPT_API_KEY}"
+      }
+    }
+  }
+}

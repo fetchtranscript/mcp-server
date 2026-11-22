@@ -1,0 +1,14 @@
+{
+  "name": "fetchtranscript-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for FetchTranscript YouTube API (npm wrapper)",
+  "license": "MIT",
+  "bin": {
+    "fetchtranscript-mcp": "./bin/cli.js"
+  },
+  "files": ["bin/"],
+  "keywords": ["mcp", "youtube", "transcript", "ai"],
+  "engines": {
+    "node": ">=18"
+  }
+}
