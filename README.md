@@ -2,6 +2,8 @@
 
 <!-- mcp-name: com.fetchtranscript/fetchtranscript -->
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/fetchtranscript/mcp-server)
+
 [![mcptry](https://mcptry.com/badge/com.fetchtranscript/fetchtranscript)](https://mcptry.com/servers/com.fetchtranscript/fetchtranscript)
 
 An [MCP](https://modelcontextprotocol.io) server that gives AI assistants (Claude Desktop, Cursor, etc.) access to YouTube transcripts, video metadata, channels, and search via the [FetchTranscript](https://fetchtranscript.com) API.
